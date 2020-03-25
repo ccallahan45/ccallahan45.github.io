@@ -8,4 +8,4 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Publications"
-      href: publications.html
+      href: Publications.html
