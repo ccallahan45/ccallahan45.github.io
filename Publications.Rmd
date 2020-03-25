@@ -4,10 +4,10 @@ title: "Publications"
 
 ### Peer-reviewed publications
 
-*Callahan, C.W.*, Schnell, J.L., & Horton, D.E. (2019) “Multi-index attribution of extreme winter air quality in Beijing, China.” Journal of Geophysical Research: Atmospheres, 124, pp. 4567–4583. doi:10.1029/2018JD029738
+**Callahan, C.W.**, Schnell, J.L., & Horton, D.E. (2019) “Multi-index attribution of extreme winter air quality in Beijing, China.” Journal of Geophysical Research: Atmospheres, 124, pp. 4567–4583. doi:10.1029/2018JD029738
 
 ### Publications in progress
 
-*Callahan, C.W.*, Chen, C., Rugenstein, M., Bloch-Johnson, J., Yang, S., & Moyer, E.J. (In revision) “Robust decrease in ENSO amplitude under long-term warming.” Nature Climate Change
+**Callahan, C.W.**, Chen, C., Rugenstein, M., Bloch-Johnson, J., Yang, S., & Moyer, E.J. (In revision) “Robust decrease in ENSO amplitude under long-term warming.” Nature Climate Change
 
-*Callahan, C.W.* & Mankin, J.S. (In revision) “The influence of internal climate variability on projections of synoptically driven Beijing haze.” Geophysical Research Letters
+**Callahan, C.W.** & Mankin, J.S. (In revision) “The influence of internal climate variability on projections of synoptically driven Beijing haze.” Geophysical Research Letters
