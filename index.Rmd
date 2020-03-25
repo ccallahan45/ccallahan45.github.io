@@ -1,5 +1,1 @@
----
-title: "Christopher Callahan"
----
-
 I am a PhD student at Dartmouth College in the EEES program, working with Dr. Justin Mankin. My primary interest is in using numerical models of the climate system to understand and project the consequences of anthropogenic climate change.
