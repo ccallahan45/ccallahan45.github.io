@@ -8,4 +8,4 @@ My previous work focused on the consequences of climate change and climate varia
 
 You can contact me at Christopher.W.Callahan.GR (at) dartmouth (dot) edu and my CV is available <a href="ccallahan45.github.io/pdfs/CV_Christopher_Callahan.pdf" target="_blank">here.</a>
 
-<img src="pdfs/Callahan_Headshot.jpg" alt="image" class="inline" height="1395" width="1046"/>
+<img src="pdfs/Callahan_Headshot_Small.jpg" alt="image" class="inline"/>
