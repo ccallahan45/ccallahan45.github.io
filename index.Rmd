@@ -4,10 +4,8 @@ title: "About Me"
 
 I am a PhD student at Dartmouth College in the <a href="https://sites.dartmouth.edu/EEES/" target="_blank">EEES program</a>, working with Dr. Justin Mankin. My primary interest is in using observations and numerical models of the climate system to understand the consequences of anthropogenic climate change. My undergraduate degree is in environmental science from Northwestern University.
 
-My previous work focused on the consequences of climate variability for the atmospheric stagnation patterns that produce poor air quality in Beijing. My current and future work integrates analysis of climate variability and econometric methods to connect the climate system to explicit, rigorous quantifications of the environment-human relationship.
+My research integrates analysis of climate variability and econometric methods to connect the climate system to human socioeconomic outcomes such as economic growth and inequality. My previous work focused on the connections between climate variability and the stagnation patterns that produce poor air quality in Beijing.
 
 You can contact me at Christopher.W.Callahan.GR (at) dartmouth (dot) edu.
-
-he/him/his
 
 <img src="pdfs/Callahan_Headshot_Smaller.jpg" alt="image" class="inline"/>
