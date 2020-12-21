@@ -8,5 +8,5 @@ My research integrates analysis of climate variability and econometric methods t
 
 You can contact me at Christopher.W.Callahan.GR (at) dartmouth (dot) edu.
 
-<img src="pdfs/Callahan_Headshot_Smaller.jpg" alt="image" top=120px left=50px/>
+<img src="pdfs/Callahan_Headshot_Smaller.jpg" alt="image" position="absolute" top=35px left=50px/>
 <!--class="inline"-->
