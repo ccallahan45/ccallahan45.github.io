@@ -4,12 +4,14 @@ title: "Publications"
 
 ### Peer-reviewed publications
 
+Erbaugh, J.T., **Callahan, C.W.**, Finger Higgens, R., DeSiervo, M., Bolger, D.T., Cox, M., Howarth, R.B. (In press) “Sociotechnical equilibrium and transitions.” *Current Opinion in Environmental Sustainability*
+
 **Callahan, C.W.** & Mankin, J.S. (2020) “The influence of internal climate variability on projections of synoptically driven Beijing haze.” *Geophysical Research Letters*, 10.1029/2020GL088548 | <a href="ccallahan45.github.io/pdfs/Callahan-and-Mankin-GRL-2020.pdf" target="_blank">PDF</a>
 
 **Callahan, C.W.**, Schnell, J.L., & Horton, D.E. (2019) “Multi-index attribution of extreme winter air quality in Beijing, China.” *Journal of Geophysical Research: Atmospheres*, 10.1029/2018JD029738 | <a href="ccallahan45.github.io/pdfs/Callahan-et-al-JGR-2019.pdf" target="_blank">PDF</a>
 
 ### Publications in progress
 
-**Callahan, C.W.**, Chen, C., Rugenstein, M., Bloch-Johnson, J., Yang, S., & Moyer, E.J. (Resubmitted) “Robust decrease in ENSO amplitude under long-term warming.” *Nature Climate Change*
+**Callahan, C.W.**, Chen, C., Rugenstein, M., Bloch-Johnson, J., Yang, S., & Moyer, E.J. (Revising) “Robust decrease in ENSO amplitude under long-term warming.” *Nature Climate Change*
 
-Erbaugh, J.T., **Callahan, C.W.**, Finger Higgens, R., DeSiervo, M., Bolger, D.T., Cox, M., Howarth, R.B. (Revising) “Sociotechnical equilibrium and transitions.” *Current Opinion in Environmental Sustainability*
+**Callahan, C.W.** & Mankin, J.S. (Submitted) “National-scale attribution of both climate damages and mitigation indemnities.”
