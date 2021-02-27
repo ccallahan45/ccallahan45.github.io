@@ -1,6 +1,10 @@
 ---
-title: "About Me"
+title: ""
 ---
+
+&nbsp;
+
+## About me
 
 I am a PhD student at Dartmouth College in the <a href="https://sites.dartmouth.edu/EEES/" target="_blank">EEES program</a>, working with Dr. Justin Mankin and the <a href="http://jsmankin.github.io/" target="_blank">Climate Modeling and Impacts Group</a>. My primary interest is in using observations and numerical models of the climate system to understand the consequences of anthropogenic climate change. My undergraduate degree is in environmental science from Northwestern University.
 
