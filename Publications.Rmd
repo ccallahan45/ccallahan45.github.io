@@ -11,6 +11,7 @@ Erbaugh, J.T., **Callahan, C.W.**, Finger Higgens, R., DeSiervo, M., Bolger, D.T
 **Callahan, C.W.**, Schnell, J.L., & Horton, D.E. (2019) “Multi-index attribution of extreme winter air quality in Beijing, China.” *Journal of Geophysical Research: Atmospheres*, 10.1029/2018JD029738 | <a href="ccallahan45.github.io/pdfs/Callahan-et-al-JGR-2019.pdf" target="_blank">PDF</a>
 
 &nbsp;
+
 ### Publications in progress
 
 **Callahan, C.W.**, Chen, C., Rugenstein, M., Bloch-Johnson, J., Yang, S., & Moyer, E.J. (Revising) “Robust decrease in ENSO amplitude under long-term warming.” *Nature Climate Change*
@@ -18,6 +19,7 @@ Erbaugh, J.T., **Callahan, C.W.**, Finger Higgens, R., DeSiervo, M., Bolger, D.T
 **Callahan, C.W.** & Mankin, J.S. (Submitted) “National-scale attribution of both climate damages and mitigation indemnities.”
 
 &nbsp;
+
 ### Working papers and preprints
 
 **Callahan, C.W.** & Mankin, J.S. (2021) “Temperature variability and extremes both reduce growth.” *EarthArXiv preprint*, 10.31223/X57G8F
