@@ -2,11 +2,13 @@
 title: ""
 ---
 
+&nbsp;
+
 ## Publications
 
 &nbsp;
 
-### Peer-reviewed publications
+#### Peer-reviewed publications
 
 Erbaugh, J.T., **Callahan, C.W.**, Finger Higgens, R., DeSiervo, M., Bolger, D.T., Cox, M., Howarth, R.B. (In press) “Sociotechnical equilibrium and transitions.” *Current Opinion in Environmental Sustainability*
 
@@ -16,7 +18,7 @@ Erbaugh, J.T., **Callahan, C.W.**, Finger Higgens, R., DeSiervo, M., Bolger, D.T
 
 &nbsp;
 
-### Publications in progress
+#### Publications in progress
 
 **Callahan, C.W.**, Chen, C., Rugenstein, M., Bloch-Johnson, J., Yang, S., & Moyer, E.J. (Revising) “Robust decrease in ENSO amplitude under long-term warming.” *Nature Climate Change*
 
@@ -24,6 +26,6 @@ Erbaugh, J.T., **Callahan, C.W.**, Finger Higgens, R., DeSiervo, M., Bolger, D.T
 
 &nbsp;
 
-### Working papers and preprints
+#### Working papers and preprints
 
-**Callahan, C.W.** & Mankin, J.S. (2021) “Temperature variability and extremes both reduce growth.” *EarthArXiv preprint*, 10.31223/X57G8F
+**Callahan, C.W.** & Mankin, J.S. (2021) “Temperature variability and extremes both reduce growth.” *EarthArXiv preprint*, 10.31223/X57G8F | <a href="ccallahan45.github.io/pdfs/Callahan-Mankin-Extremes-EarthArXiv.pdf" target="_blank">PDF</a>
