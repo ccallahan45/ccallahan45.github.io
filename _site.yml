@@ -1,7 +1,7 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Christopher Callahan"
+  title: "Christopher W. Callahan"
   right:
     - text: "About"
       href: index.html
